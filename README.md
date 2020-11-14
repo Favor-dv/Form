@@ -1,2 +1,2 @@
 # Form
- Login and signup functionality
+ Login/Signup functionality
